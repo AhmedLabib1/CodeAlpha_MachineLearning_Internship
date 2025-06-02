@@ -83,7 +83,7 @@ This task is part of the CodeAlpha Machine Learning Internship (June 2025 – Se
 ## Project Demo
 
 🔗 [LinkedIn Post with Demo Video](#)  
-🔗 [GitHub Repository](#)  
+🔗 [GitHub Repository](#) https://github.com/AhmedLabib1/CodeAlpha_MachineLearning_Internship
 
 ---
 
