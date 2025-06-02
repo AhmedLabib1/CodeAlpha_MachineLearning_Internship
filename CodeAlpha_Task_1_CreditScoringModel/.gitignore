@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# Model files (optional)
+*.pkl
+
+# HTML reports (optional)
+*.html
+
+# OS or editor files
+.DS_Store
+*.log
